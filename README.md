@@ -1,1 +1,1 @@
-This is Vagyasri’s first git project!
+This is Lucky’s first git project!
